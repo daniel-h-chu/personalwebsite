@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site-clone-clone",
+    "name": "DanielChu",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -52,14 +52,16 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 123,
     "versionPublish": "4.8.10",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/fav-16x16.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Daniel Chu",
+        "meta_descr": "Personal Website of Daniel Chu",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
